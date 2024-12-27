@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color:#FFFFFF;
+    width: auto;
+    height: 53px;
+    border-bottom: 1px #F4F4F4;
+    position: sticky;
+}
+
+.header-title {
+    color: #F5C800;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 500;
+    width: 112px;
+    height: 33px;
+}
+
+.content {
+    background-color: #F8F8F8;
+    width: auto;
+}
